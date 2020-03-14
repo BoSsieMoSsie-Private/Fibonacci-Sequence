@@ -1,0 +1,21 @@
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\bin\Debug\Sum of even fibonacci numbers.exe.config
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\bin\Debug\Sum of even fibonacci numbers.exe
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\bin\Debug\Sum of even fibonacci numbers.pdb
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\obj\Debug\Sum of even fibonacci numbers.csprojAssemblyReference.cache
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\obj\Debug\MainWindow.g.cs
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\obj\Debug\App.g.cs
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\obj\Debug\Sum of even fibonacci numbers_MarkupCompile.cache
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\obj\Debug\Sum of even fibonacci numbers_MarkupCompile.lref
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\obj\Debug\MainWindow.baml
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\obj\Debug\Sum of even fibonacci numbers.g.resources
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\obj\Debug\Sum_of_even_fibonacci_numbers.Properties.Resources.resources
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\obj\Debug\Sum of even fibonacci numbers.csproj.GenerateResource.cache
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\obj\Debug\Sum of even fibonacci numbers.exe
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\obj\Debug\Sum of even fibonacci numbers.pdb
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\bin\Debug\LiveCharts.dll
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\bin\Debug\LiveCharts.pdb
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\bin\Debug\LiveCharts.xml
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\BoSsie\source\repos\Sum of even fibonacci numbers\Sum of even fibonacci numbers\obj\Debug\Sum of even fibonacci numbers.csproj.CopyComplete
